@@ -1,0 +1,23 @@
+{
+    "@@locale": "en",
+    "homeAppBarTitle": "My Flux",
+    "@homeAppBarTitle": {
+        "description": "Flux in application"
+    },
+    "detailPictureAppBarTitle": "Picture",
+    "@detailPictureAppBarTitle": {
+        "description": "Picture detail in application"
+    },
+    "detailArticleAppBarTitle": "Article",
+    "@detailArticleAppBarTitle": {
+        "description": "Article detail in application"
+    },
+    "genericErrorMessage": "An error occured please refresh the page",
+    "@genericErrorMessage": {
+        "description": "An error occured please refresh the page"
+    },
+    "refreshButton": "Refresh",
+    "@refreshButton": {
+        "description": "Refresh when an error occured"
+    }
+}

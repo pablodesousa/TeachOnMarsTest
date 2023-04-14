@@ -1,0 +1,23 @@
+{
+    "@@locale": "fr",
+    "homeAppBarTitle": "Mon Flux",
+    "@homeAppBarTitle": {
+        "description": "Flux de l'application"
+    },
+    "detailPictureAppBarTitle": "Image",
+    "@detailPictureAppBarTitle": {
+        "description": "Detail de l'image dans l'application"
+    },
+    "detailArticleAppBarTitle": "Article",
+    "@detailArticleAppBarTitle": {
+        "description": "Detail de l'article dans application"
+    },
+    "genericErrorMessage": "Une erreur est survenue veuillez rafraichir",
+    "@genericErrorMessage": {
+        "description": "Une erreur est survenue veuillez rafraichir"
+    },
+    "refreshButton": "Rafraichir",
+    "@refreshButton": {
+        "description": "Rafraichir quand une erreur arrive"
+    }
+}
